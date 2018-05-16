@@ -81,7 +81,7 @@ This file stores all important
 	   If you dont have one get it at 
 	   https://www.ivona.com */
 
-	define("IVONA_ACCESSKEY", "");
+	define("IVONA_ACCESSKEY", AIzaSyAhHZlQEU9v9QSVNhd2h9wm9a6BPlY412c);
 	define("IVONA_SECRETKEY", "");
 
 	define("IVONA_TEMP_DIR",  __dirname + "/Modules/Speaker/Temp/");
